@@ -1,0 +1,11 @@
+{
+  "name": "2180m",
+  "description": "A node.js app for tracking emotional state",
+  "repository": "https://mood-in-pixels-2180m.herokuapp.com/",
+  "logo": "https://node-js-sample.herokuapp.com/node.png",
+  "keywords": ["node", "sequelize", "passport" "mentalHealth"],
+  "success_url": "/api/signup",
+  "addons": [{
+  	"plan": "jawsdb"
+  }],
+}
